@@ -62,8 +62,6 @@ DeepSec is designed to handle a diverse range of programming environments. The e
 | **PoC Generation** | AI generates Proof-of-Concept exploits for confirmed bugs. |
 | **Smart Reporting** | Generates interactive HTML reports with remediation steps. |
 
-GitHub README fayli uchun ushbu qismni yanada tushunarli va tayyor buyruqlar (copy-paste) bilan boyitilgan holda tayyorladim. Bu foydalanuvchiga terminaldan chiqmasdan sozlash imkonini beradi.
-
  How to Get and Configure your API Key
 To enable the AI-powered audit (Llama 3.3), you must obtain a free API key from Groq Cloud. Follow these steps:
 
