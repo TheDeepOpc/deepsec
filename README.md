@@ -10,13 +10,12 @@ DeepSec is an advanced security auditing platform that combines Static Applicati
 | **Multilingual** | Full support for **English**, **Русский**, and **O'zbek**. |
 | **PoC Generation** | AI generates Proof-of-Concept exploits for confirmed bugs. |
 | **Smart Reporting** | Generates interactive HTML reports with remediation steps. |
-```bash
 
-```
 GitHub README fayli uchun ushbu qismni yanada tushunarli va tayyor buyruqlar (copy-paste) bilan boyitilgan holda tayyorladim. Bu foydalanuvchiga terminaldan chiqmasdan sozlash imkonini beradi.
 
-🔑 How to Get and Configure your API Key
+ How to Get and Configure your API Key
 To enable the AI-powered audit (Llama 3.3), you must obtain a free API key from Groq Cloud. Follow these steps:
+
 <img src="./searchapi.png" alt="Audit Report" width="600"/>
 1. Obtain the Key
 Visit the Groq Cloud Console.
